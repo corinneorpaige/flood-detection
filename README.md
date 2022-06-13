@@ -47,3 +47,6 @@ See [Smith + Trivedi Presentation](https://github.com/corinneorpaige/flood-detec
 
 ## Data Citation
 Quoc Dung Cao, Youngjun Choe, December 13, 2018, "Detecting Damaged Buildings on Post-Hurricane Satellite Imagery Based on Customized Convolutional Neural Networks", IEEE Dataport, doi: https://dx.doi.org/10.21227/sdad-1e56.
+
+## Runtime Errors
+Memory exceeded for layer visualization on my machine
