@@ -1,4 +1,6 @@
 # Utilizing Convolutional Neural Nets for Flood Detection
+## Final Project for Machine Learning (CPSC 393)
+### *Corinne Smith and Nishaad Trivedi* 
 
 ## Data from *Building Damage Annotation on Post-Hurricane Satellite Imagery Based on Convolutional Neural Networks* by Quoc Dung Cao and Youngjun Choe (2020)
 [Link to files on Kaggle](https://www.kaggle.com/datasets/kmader/satellite-images-of-hurricane-damage)
