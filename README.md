@@ -1,6 +1,7 @@
 # Utilizing Convolutional Neural Nets for Flood Detection
-## Final Project for Machine Learning (CPSC 393)
-### *Corinne Smith and Nishaad Trivedi* 
+Final Project for Machine Learning (CPSC 393)
+
+*Corinne Smith and Nishaad Trivedi* 
 
 ## Data from *Building Damage Annotation on Post-Hurricane Satellite Imagery Based on Convolutional Neural Networks* by Quoc Dung Cao and Youngjun Choe (2020)
 [Link to files on Kaggle](https://www.kaggle.com/datasets/kmader/satellite-images-of-hurricane-damage)
@@ -23,7 +24,11 @@ Chose to test multiple convolutional neural networks for image prediction:
 ## Results
 Our best model was #3. We received a testing accuracy of 98% and a training accuracy of 99.1% - slight overfit.
 
-### References for Paper and Presentation
+See [Smith + Trivedi Presentation](https://github.com/corinneorpaige/flood-detection/blob/b6e15167af32206029e4d3c2bf9f559f09783bdd/Smith%20+%20Trivedi%20Presentation.pdf) for an overview and [Smith + Trivedi Writeup](https://github.com/corinneorpaige/flood-detection/blob/b6e15167af32206029e4d3c2bf9f559f09783bdd/Smith%20+%20Trivedi%20Paper.pdf) for further background, analysis, and discussion.
+
+## References
+
+#### References for Paper and Presentation
 - https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized
 - https://arxiv.org/pdf/1807.01688.pdf
 - https://www.frontiersin.org/articles/10.3389/frai.2020.534696/full
@@ -32,7 +37,7 @@ Our best model was #3. We received a testing accuracy of 98% and a training accu
 - https://www.reuters.com/world/asia-pacific/half-million-face-flood-evacuation-sydney-braces-more-heavy-rains-2022-03-02/
 - https://www.npr.org/2021/07/25/1020342822/flooding-continues-to-devastate-zhengzhou-city-in-central-china
 
-### References for Code
+#### References for Code
 - Code mainly taken from *Deep Learning with Python* by Francois Chollet
 - https://towardsdatascience.com/convolutional-neural-networks-in-practice-406426c6c19a
 - https://www.tensorflow.org/guide/keras/save_and_serialize
