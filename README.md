@@ -7,7 +7,7 @@ Final Project for Machine Learning (CPSC 393)
 [Link to files on Kaggle](https://www.kaggle.com/datasets/kmader/satellite-images-of-hurricane-damage)
 
 ## Main Motivation
-Floods can be incredibly devastating, so being able to quickly and appropriately allocate aid is imperative. Locating regions that have more or less damage is an important part of correctly distributing resources. Satellite images using optical sensors are much easier to attain than information from synthetic aperture radar sensors, the current solution for damage assessment. Utilizing a more readily-available source of data along with a high-performing model could improve current damage identification methods for future disasters, helping relief organizations with their responses. 
+Floods can be incredibly devastating, so being able to quickly and appropriately allocate aid is imperative. Identifying damaged versus undamaged areas is an important part of correctly distributing resources. Satellite images using optical sensors are much easier to attain than information from synthetic aperture radar sensors, the current solution for damage assessment. Utilizing a more readily-available source of data along with a high-performing model could improve current damage identification methods for future disasters, helping relief organizations with their responses. 
 
 ## Goal
 We sought to create a model that would accurately detect flood-damaged buildings after Hurricane Harvey in Houston, TX.
@@ -24,7 +24,7 @@ Chose to test multiple convolutional neural networks for image prediction:
 ## Results
 Our best model was #3. We received a testing accuracy of 98% and a training accuracy of 99.1% - slight overfit.
 
-See [Smith + Trivedi Presentation](https://github.com/corinneorpaige/flood-detection/blob/b6e15167af32206029e4d3c2bf9f559f09783bdd/Smith%20+%20Trivedi%20Presentation.pdf) for an overview and [Smith + Trivedi Writeup](https://github.com/corinneorpaige/flood-detection/blob/b6e15167af32206029e4d3c2bf9f559f09783bdd/Smith%20+%20Trivedi%20Paper.pdf) for further background, analysis, and discussion.
+See [Smith + Trivedi Presentation](https://github.com/corinneorpaige/flood-detection/blob/b6e15167af32206029e4d3c2bf9f559f09783bdd/Smith%20+%20Trivedi%20Presentation.pdf) for an overview and [Smith + Trivedi Paper](https://github.com/corinneorpaige/flood-detection/blob/b6e15167af32206029e4d3c2bf9f559f09783bdd/Smith%20+%20Trivedi%20Paper.pdf) for further background, analysis, and discussion.
 
 ## References
 
